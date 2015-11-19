@@ -1,10 +1,10 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-##### Google style guide: https://google.github.io/styleguide/pyguide.html
-##### PEP styling: https://www.python.org/dev/peps/pep-0008/
-##### PyLint Score: 
-
+###### Google style guide: https://google.github.io/styleguide/pyguide.html
+###### PEP styling: https://www.python.org/dev/peps/pep-0008/
+###### PyLint Score: 
+###### External dependencies/libraries: None
 
 This program implements two features:
 
