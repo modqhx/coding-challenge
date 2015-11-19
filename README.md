@@ -1,9 +1,9 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
-#### Google style guide: https://google.github.io/styleguide/pyguide.html
-#### PEP styling: https://www.python.org/dev/peps/pep-0008/
-#### PyLint Score: 
+##### Google style guide: https://google.github.io/styleguide/pyguide.html
+##### PEP styling: https://www.python.org/dev/peps/pep-0008/
+##### PyLint Score: 
 
 
 This program implements two features:
@@ -18,7 +18,7 @@ This program implements two features:
     - Tested on ipython notebook, spyder and terminal
     - Unit Tests: 
     - Tested on Unix(MacOSX) and Linux
-
+    - Not tested with Streaming API 
 
 
 
@@ -29,11 +29,12 @@ This program implements two features:
 
 
     - Every tweets needs to be processed even if it has no hashtags, (as stated in FAQ)
-    - If there is 1 or no hashtags in the tweet, rolling average is 0
-
+    - If there is 1 or no hashtags in the tweet, rolling average is 0 and no new node is added to the graph
     - An alternate version of this program has been provided in the src folder using a separate 'Graph' class which calculates edges, adds vertices dynamically, and calculates degree of a vertex
-
-
+    - Tested on ipython notebook, spyder and terminal
+    - Unit Tests: 
+    - Tested on Unix(MacOSX) and Linux
+    - Not tested with Streaming API 
 
 
 
