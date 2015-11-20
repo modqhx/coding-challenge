@@ -1,6 +1,7 @@
 Insight Data Engineering - Coding Challenge
 ===========================================================
 
+###### Using python 2.7
 ###### Google style guide: https://google.github.io/styleguide/pyguide.html
 ###### PEP styling: https://www.python.org/dev/peps/pep-0008/
 ###### PyLint Score: 
